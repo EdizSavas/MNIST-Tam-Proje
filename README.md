@@ -1,0 +1,2 @@
+# MNIST-Tam-Proje
+
