@@ -8,6 +8,11 @@ Projenin temel hedefi, hem teorik olarak derin öğrenme mantığının kavranma
 sağlamak hem de uygulamalı bir arayüz ile son kullanıcının sisteme etkileşimli şekilde veri
 girişi yapabilmesini mümkün kılmaktır.
 
+# Kurulum/Kullanım
+
+Projeyi için gerekli bağımlılıkları yüklemek için lütfen install_requirements.py dosyasını terminalinizde "python install_requirements.py" komudunu kullanarak çalıştırınız yoksa PROJELER AÇILMAYACAKTIR/HATA VERECEKTİR
+
+MNIST projesini açmak için terminalinizde "python gui.py" komudunu çalıştırınız. (MNIST-Tam Proje klasöründe olmalısınız o sırada)MNIST projesini açmak için terminalinizde "python gui.py" komudunu çalıştırınız. (MNIST-Tam Proje klasöründe olmalısınız o sırada)
 
 # Teknik Özellikler
 
