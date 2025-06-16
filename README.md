@@ -106,3 +106,4 @@ graph/ klasörü modelWeights/ ve best_model/ klasörlerinde ağırlık ve bias 
 
 # Şu An Kullanılan Eğitimin Sonucu (En Güncel ve Stabil Model Çıktısı)
 
+![MNIST-Tam-Proje](graph/23.png)
